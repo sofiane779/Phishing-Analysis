@@ -1,4 +1,4 @@
-# SOC Phishing Incident Analysis - Ephemeral Infrastructure (IoC: finances.portal-update.xyz)
+# Phishing Incident Analysis - Ephemeral Infrastructure (IoC: finances.portal-update.xyz)
 
 ## Project Overview
 This repository contains the full analysis and incident response documentation for a simulated critical phishing alert. The project demonstrates core Security Operations Center (SOC) Tier 1 and Tier 2 capabilities in handling a rapidly deployed, evasive threat.
